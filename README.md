@@ -2,6 +2,7 @@
 nubank app created with react native for studies
 
 ![nubank](Screenshot_01.jpg)
+![nubank](Screenshot_02.jpg)
 
 For running in terminal
 yarn Start
